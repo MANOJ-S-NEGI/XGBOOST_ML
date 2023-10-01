@@ -1,6 +1,8 @@
 # XGBOOST_ML
 ---
+
 ## XGBOOST_REGRESSION:
+
 In the XGBoost library, the booster parameter allows us to choose the type of base learner or model that will be used in the ensemble.
 
 **The booster parameter accepts one of the following values:**
